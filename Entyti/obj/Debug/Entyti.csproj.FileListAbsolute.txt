@@ -1,0 +1,17 @@
+E:\KhachSan\Entyti\bin\Debug\Entyti.dll
+E:\KhachSan\Entyti\bin\Debug\Entyti.pdb
+E:\KhachSan\Entyti\obj\Debug\Entyti.dll
+E:\KhachSan\Entyti\obj\Debug\Entyti.pdb
+E:\KhachSan\Entyti\obj\Debug\Entyti.csprojResolveAssemblyReference.cache
+D:\SourceCodde\Nhom7_DHKTPM13A_KhachSan\Entyti\bin\Debug\Entyti.dll
+D:\SourceCodde\Nhom7_DHKTPM13A_KhachSan\Entyti\bin\Debug\Entyti.pdb
+D:\SourceCodde\Nhom7_DHKTPM13A_KhachSan\Entyti\obj\Debug\Entyti.csprojAssemblyReference.cache
+D:\SourceCodde\Nhom7_DHKTPM13A_KhachSan\Entyti\obj\Debug\Entyti.csproj.CoreCompileInputs.cache
+D:\SourceCodde\Nhom7_DHKTPM13A_KhachSan\Entyti\obj\Debug\Entyti.dll
+D:\SourceCodde\Nhom7_DHKTPM13A_KhachSan\Entyti\obj\Debug\Entyti.pdb
+D:\Study\SourceCodde\Nhom2_BaiTapLon_QuanLyKhachSan\Entyti\bin\Debug\Entyti.dll
+D:\Study\SourceCodde\Nhom2_BaiTapLon_QuanLyKhachSan\Entyti\bin\Debug\Entyti.pdb
+D:\Study\SourceCodde\Nhom2_BaiTapLon_QuanLyKhachSan\Entyti\obj\Debug\Entyti.csproj.CoreCompileInputs.cache
+D:\Study\SourceCodde\Nhom2_BaiTapLon_QuanLyKhachSan\Entyti\obj\Debug\Entyti.dll
+D:\Study\SourceCodde\Nhom2_BaiTapLon_QuanLyKhachSan\Entyti\obj\Debug\Entyti.pdb
+D:\Study\SourceCodde\Nhom2_BaiTapLon_QuanLyKhachSan\Entyti\obj\Debug\Entyti.csprojAssemblyReference.cache
